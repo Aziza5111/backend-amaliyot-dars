@@ -1,0 +1,17 @@
+.user {
+  width: 300px;
+  height: 500px;
+  border: 1px solid black;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.user-image {
+  width: 200px;
+}
+
+.users {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
